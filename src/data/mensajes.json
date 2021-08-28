@@ -1,0 +1,14 @@
+[
+  {
+    "msg": "Si lo ves es porque lo pudo leer al mensaje",
+    "emisor": "Prueba de lectura",
+    "fechaEmision": "28/8/2021",
+    "id": 1
+  },
+  {
+    "msg": "Holaaa, si lo lees es porque se pudo enviar",
+    "fechaEmision": "28/8/2021, 17:22:2",
+    "emisor": "Franco",
+    "id": 5
+  }
+]

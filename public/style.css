@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+}
+
+#chat p b{
+    color: blue;
+}
+
+#chat p {
+    color: brown;
+}
+
+#chat p i{
+    color: green;
+}

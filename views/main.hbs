@@ -1,0 +1,31 @@
+<form method="POST" id="formulario">
+        <label for="title">Título:</label>
+        <input type="text" name="title" id="title" placeholder="Attack on titan" required>
+        <label for="mainCharacter">Personaje principal:</label>
+        <input type="text" name="mainCharacter" id="mainCharacter" placeholder="Levi" required>
+        <label for="img">Url de imagen:</label>
+        <input type="text" name="imgUrl" id="imgUrl" placeholder="Insertar url de imagen" required>
+        <input type="submit" value="Enviar">
+</form>
+<div>
+        <h3>Lista de animes:</h3>
+        <table>
+                <thead>
+                        <tr>
+                        <th>Id</th>
+                        <th>Titulo</th>
+                        <th>Personaje principal</th>
+                        <th>Imagen</th>
+                        </tr>
+                </thead>
+                <tbody id="tablaAnime"></tbody>
+        </table>
+</div>
+<form method="POST" id="mensajes">
+        <label for="emisor">Nombre:</label>
+        <input type="text" name="emisor" id="emisor" placeholder="Don Pepe" required>
+        <div id="chat"></div>
+        <label for="msg">Mensaje:</label>
+        <input type="text" name="msg" id="msg" placeholder="Holaaaaaaaaa" required>
+        <input type="submit" value="Enviar">
+</form>

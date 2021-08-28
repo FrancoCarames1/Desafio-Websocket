@@ -1,0 +1,32 @@
+[
+  {
+    "title": "One Punch",
+    "mainCharacter": "Saitama",
+    "id": 1,
+    "imgUrl": "https://depor.com/resizer/21RYFEoGr59pOl458R5KGuVBY74=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6NEBOMDICREDVG2U6LPZF5H3CY.jpg"
+  },
+  {
+    "title": "One Piece",
+    "mainCharacter": "Luffy",
+    "id": 2,
+    "imgUrl": "https://i.pinimg.com/originals/0f/bc/56/0fbc56041822706d9f9f9e36eea5652c.png"
+  },
+  {
+    "title": "Jujutsu no Kaisen",
+    "mainCharacter": "Yuji",
+    "id": 3,
+    "imgUrl": "https://gcdn.lanetaneta.com/wp-content/uploads/2021/07/Por-que-Yuji-probablemente-no-este-en-la-nueva-pelicula.jpeg"
+  },
+  {
+    "title": "Captain Tsubasa",
+    "mainCharacter": "Tsubasa",
+    "id": 4,
+    "imgUrl": "https://i.blogs.es/41e12a/capitan/450_1000.jpg"
+  },
+  {
+    "title": "Dragon Ball",
+    "mainCharacter": "Goku",
+    "id": 5,
+    "imgUrl": "https://sm.ign.com/t/ign_latam/screenshot/default/dia-de-goku_51ng.1280.jpg"
+  }
+]
